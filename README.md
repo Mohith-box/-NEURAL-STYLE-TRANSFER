@@ -89,6 +89,7 @@ Result Saving:
 The final styled image is de-normalized and saved as output_styled_image.jpg.
 
 #Why This Is Valuable
+
 Neural Style Transfer combines the power of computer vision and creativity, allowing machines to generate visually stunning artwork by understanding the structure and texture of images.
 
 This task not only teaches deep learning concepts like CNNs and feature maps, but also provides a hands-on project in AI-assisted design — an area that's increasingly relevant in media, design, and entertainment industries.
